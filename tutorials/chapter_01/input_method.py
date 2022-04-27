@@ -1,0 +1,8 @@
+age = input("Insert your age: ")
+print(age)
+firstname=input("Insert your name:")
+middlename=input("Insert your middle name:")
+lastname=input("Insert your last name:")
+age=input("Insert your age:")
+gender=input("Insert your gender:")
+print("Hey!",firstname, middlename, lastname,"it is nice to meet you")
